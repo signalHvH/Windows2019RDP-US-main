@@ -1,1 +1,1 @@
-# win10rd
+# windows
